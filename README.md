@@ -88,3 +88,5 @@ Done! visit [http://localhost:8080](http://localhost:8080)
 ![main](https://user-images.githubusercontent.com/26512984/173250652-cdc843de-8c1c-4220-838c-40815189af26.png)
 
 ![notification](https://user-images.githubusercontent.com/26512984/173250678-a88651b4-87c5-4f62-b8d2-bdf625e0ac5b.png)
+
+## HTTPS 인증서 적용하여 실제 서버에도 알림 구현 가능한지 테스트 해보기
